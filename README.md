@@ -11,6 +11,12 @@
   <a href="https://www.youtube.com/@abhishekgavali6650" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
+  </a>
+  <a href="https://leetcode.com/u/abhishekug" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
+  </a>
+
+
 </div>
 
 ###
